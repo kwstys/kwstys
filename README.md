@@ -1,6 +1,6 @@
 # kwstys
 
-信息安全专业在读，会开发一些安全工具，也会打 CTF 竞赛。
+信息安全专业在读，会尝试开发一些安全工具，也会打 CTF 竞赛。
 
 ## 在做的事
 
@@ -15,7 +15,7 @@
 ## 关注的方向
 
 - 邮件安全：MIME 解析、SPF / DKIM / DMARC、钓鱼特征检测
-- 二进制漏洞利用（pwn）/ web安全
+- 二进制漏洞利用（pwn）/ Web安全
 - 网络协议
 
 ## 技术栈
@@ -24,4 +24,4 @@ Python · C++ · Git · Linux
 
 ## 联系
 
-cshaopy@mail.scut.edu.cn
+[cshaopy@mail.scut.edu.cn](mailto:cshaopy@mail.scut.edu.cn)· 或直接开 [Issue](https://github.com/kwstys/phishing-analyzer/issues)
